@@ -1,0 +1,13 @@
+{
+  "enchantment.enchantation.toxshock": "Toxic Shock",
+  "enchantment.enchantation.toxshock.desc": "Poisons your opponent when hit with an arrow or the bow itself.",
+
+  "enchantment.enchantation.obscurity": "Obscurity",
+  "enchantment.enchantation.obscurity.desc": "Applies invisibility when equipped.",
+
+  "enchantment.enchantation.adept": "Adept",
+  "enchantment.enchantation.adept.desc": "Increases how high you can step up blocks.",
+
+  "enchantment.enchantation.siphon": "Siphon",
+  "enchantment.enchantation.siphon.desc": "Regenerates your health when you deal damage"
+}
